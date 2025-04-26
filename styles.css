@@ -1,0 +1,65 @@
+/* Full black background */
+body {
+  background-color: #121212;
+  color: white;
+}
+
+/* Adjust headers */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+.menu {
+  width: 60px;
+  background: #1a1f2b;
+  height: 100vh;
+  transition: width 0.3s;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+
+.menu:hover {
+  width: 240px;
+}
+
+.menu-content {
+  padding: 20px 0;
+}
+
+.menu-content li {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.menu-content li a {
+  display: flex;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 0 50px 50px 0;
+  transition: background 0.3s;
+}
+
+.menu-content li a:hover {
+  background: #0c0c0c;
+}
+
+.label {
+  margin-left: 10px;
+  display: none;
+}
+
+.menu:hover .label {
+  display: inline-block;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
