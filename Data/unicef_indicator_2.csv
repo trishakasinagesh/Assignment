@@ -1,0 +1,514 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Percentage of children under age 5 whose births are registered,2023,47,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Percentage of children under age 5 whose births are registered,2023,48.6,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,AF,AFG,4,Percentage of children under age 5 whose births are registered,2023,47.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,AL,ALB,8,Percentage of children under age 5 whose births are registered,2018,98,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,AL,ALB,8,Percentage of children under age 5 whose births are registered,2018,98.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,AL,ALB,8,Percentage of children under age 5 whose births are registered,2018,98.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Algeria,DZ,DZA,12,Percentage of children under age 5 whose births are registered,2019,99.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Algeria,DZ,DZA,12,Percentage of children under age 5 whose births are registered,2019,99.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Algeria,DZ,DZA,12,Percentage of children under age 5 whose births are registered,2019,99.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Andorra,AD,AND,20,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Andorra,AD,AND,20,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Andorra,AD,AND,20,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Angola,AO,AGO,24,Percentage of children under age 5 whose births are registered,2016,25.2,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Angola,AO,AGO,24,Percentage of children under age 5 whose births are registered,2016,24.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Angola,AO,AGO,24,Percentage of children under age 5 whose births are registered,2016,25,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Argentina,AR,ARG,32,Percentage of children under age 5 whose births are registered,2020,99.4,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Argentina,AR,ARG,32,Percentage of children under age 5 whose births are registered,2020,100,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Argentina,AR,ARG,32,Percentage of children under age 5 whose births are registered,2020,99.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,AM,ARM,51,Percentage of children under age 5 whose births are registered,2016,98.5,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,AM,ARM,51,Percentage of children under age 5 whose births are registered,2016,98.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,AM,ARM,51,Percentage of children under age 5 whose births are registered,2016,98.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Australia,AU,AUS,36,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Australia,AU,AUS,36,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Australia,AU,AUS,36,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Austria,AT,AUT,40,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Austria,AT,AUT,40,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Austria,AT,AUT,40,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Azerbaijan,AZ,AZE,31,Percentage of children under age 5 whose births are registered,2006,93.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Azerbaijan,AZ,AZE,31,Percentage of children under age 5 whose births are registered,2006,93.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Azerbaijan,AZ,AZE,31,Percentage of children under age 5 whose births are registered,2006,93.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Bahrain,BH,BHR,48,Percentage of children under age 5 whose births are registered,2019,100,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Bahrain,BH,BHR,48,Percentage of children under age 5 whose births are registered,2019,100,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Bahrain,BH,BHR,48,Percentage of children under age 5 whose births are registered,2019,100,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Percentage of children under age 5 whose births are registered,2019,56.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Percentage of children under age 5 whose births are registered,2019,56,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,BD,BGD,50,Percentage of children under age 5 whose births are registered,2019,56,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Barbados,BB,BRB,52,Percentage of children under age 5 whose births are registered,2012,98.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Barbados,BB,BRB,52,Percentage of children under age 5 whose births are registered,2012,98.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Barbados,BB,BRB,52,Percentage of children under age 5 whose births are registered,2012,98.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Belarus,BY,BLR,112,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Belarus,BY,BLR,112,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Belarus,BY,BLR,112,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Belgium,BE,BEL,56,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Belgium,BE,BEL,56,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Belgium,BE,BEL,56,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Belize,BZ,BLZ,84,Percentage of children under age 5 whose births are registered,2016,96.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Belize,BZ,BLZ,84,Percentage of children under age 5 whose births are registered,2016,95.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Belize,BZ,BLZ,84,Percentage of children under age 5 whose births are registered,2016,95.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Percentage of children under age 5 whose births are registered,2022,92.3,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Percentage of children under age 5 whose births are registered,2022,92.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,BJ,BEN,204,Percentage of children under age 5 whose births are registered,2022,92.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Bhutan,BT,BTN,64,Percentage of children under age 5 whose births are registered,2010,99.8,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Bhutan,BT,BTN,64,Percentage of children under age 5 whose births are registered,2010,100,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Bhutan,BT,BTN,64,Percentage of children under age 5 whose births are registered,2010,99.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Percentage of children under age 5 whose births are registered,2016,91.9,Total,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Bosnia and Herzegovina,BA,BIH,70,Percentage of children under age 5 whose births are registered,2006,99.4,Female,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Bosnia and Herzegovina,BA,BIH,70,Percentage of children under age 5 whose births are registered,2006,99.7,Male,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Bosnia and Herzegovina,BA,BIH,70,Percentage of children under age 5 whose births are registered,2006,99.5,Total,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Botswana,BW,BWA,72,Percentage of children under age 5 whose births are registered,2020,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Botswana,BW,BWA,72,Percentage of children under age 5 whose births are registered,2020,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Botswana,BW,BWA,72,Percentage of children under age 5 whose births are registered,2020,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Brazil,BR,BRA,76,Percentage of children under age 5 whose births are registered,2015,96.4,Total,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Brunei,BN,BRN,96,Percentage of children under age 5 whose births are registered,2020,99.9,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Bulgaria,BG,BGR,100,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Bulgaria,BG,BGR,100,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Bulgaria,BG,BGR,100,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Burkina Faso,BF,BFA,854,Percentage of children under age 5 whose births are registered,2021,84.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,BF,BFA,854,Percentage of children under age 5 whose births are registered,2021,85,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,BF,BFA,854,Percentage of children under age 5 whose births are registered,2021,84.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,BI,BDI,108,Percentage of children under age 5 whose births are registered,2017,83.3,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,BI,BDI,108,Percentage of children under age 5 whose births are registered,2017,83.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,BI,BDI,108,Percentage of children under age 5 whose births are registered,2017,83.5,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cape Verde,CV,CPV,132,Percentage of children under age 5 whose births are registered,2010,91.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,KH,KHM,116,Percentage of children under age 5 whose births are registered,2022,91.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,KH,KHM,116,Percentage of children under age 5 whose births are registered,2022,91.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,KH,KHM,116,Percentage of children under age 5 whose births are registered,2022,91.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Percentage of children under age 5 whose births are registered,2018,61.8,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Percentage of children under age 5 whose births are registered,2018,62.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,CM,CMR,120,Percentage of children under age 5 whose births are registered,2018,61.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Canada,CA,CAN,124,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Canada,CA,CAN,124,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Canada,CA,CAN,124,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Central African Republic,CF,CAF,140,Percentage of children under age 5 whose births are registered,2019,44.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,CF,CAF,140,Percentage of children under age 5 whose births are registered,2019,45.5,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,CF,CAF,140,Percentage of children under age 5 whose births are registered,2019,44.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Percentage of children under age 5 whose births are registered,2019,25.5,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Percentage of children under age 5 whose births are registered,2019,25.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,TD,TCD,148,Percentage of children under age 5 whose births are registered,2019,25.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Chile,CL,CHL,152,Percentage of children under age 5 whose births are registered,2011,99.4,Total,,%,Reported,Free,End of fieldwork,Under 8 years old
+China,CN,CHN,156,Percentage of children under age 5 whose births are registered,2020,96.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+China,CN,CHN,156,Percentage of children under age 5 whose births are registered,2020,96.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+China,CN,CHN,156,Percentage of children under age 5 whose births are registered,2020,96.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Colombia,CO,COL,170,Percentage of children under age 5 whose births are registered,2015,97,Female,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Colombia,CO,COL,170,Percentage of children under age 5 whose births are registered,2015,96.5,Male,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Colombia,CO,COL,170,Percentage of children under age 5 whose births are registered,2015,96.8,Total,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Comoros,KM,COM,174,Percentage of children under age 5 whose births are registered,2022,94.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Comoros,KM,COM,174,Percentage of children under age 5 whose births are registered,2022,95.2,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Comoros,KM,COM,174,Percentage of children under age 5 whose births are registered,2022,95.1,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,CG,COG,178,Percentage of children under age 5 whose births are registered,2015,95.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,CG,COG,178,Percentage of children under age 5 whose births are registered,2015,96,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,CG,COG,178,Percentage of children under age 5 whose births are registered,2015,95.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cook Islands,CK,COK,184,Percentage of children under age 5 whose births are registered,2017,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Cook Islands,CK,COK,184,Percentage of children under age 5 whose births are registered,2017,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Cook Islands,CK,COK,184,Percentage of children under age 5 whose births are registered,2017,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Costa Rica,CR,CRI,188,Percentage of children under age 5 whose births are registered,2021,96.4,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Croatia,HR,HRV,191,Percentage of children under age 5 whose births are registered,2019,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Croatia,HR,HRV,191,Percentage of children under age 5 whose births are registered,2019,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Croatia,HR,HRV,191,Percentage of children under age 5 whose births are registered,2019,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Cuba,CU,CUB,192,Percentage of children under age 5 whose births are registered,2019,100,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Percentage of children under age 5 whose births are registered,2019,99.6,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,CU,CUB,192,Percentage of children under age 5 whose births are registered,2019,99.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Cyprus,CY,CYP,196,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Cyprus,CY,CYP,196,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Cyprus,CY,CYP,196,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Czech Republic,CZ,CZE,203,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Czech Republic,CZ,CZE,203,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Czech Republic,CZ,CZE,203,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Ivory Coast,CI,CIV,384,Percentage of children under age 5 whose births are registered,2021,95.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,CI,CIV,384,Percentage of children under age 5 whose births are registered,2021,95.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,CI,CIV,384,Percentage of children under age 5 whose births are registered,2021,95.5,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Percentage of children under age 5 whose births are registered,2009,100,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Percentage of children under age 5 whose births are registered,2009,100,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Korea, Democratic People's Republic of",KP,PRK,408,Percentage of children under age 5 whose births are registered,2009,100,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage of children under age 5 whose births are registered,2018,40,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage of children under age 5 whose births are registered,2018,40.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Congo, the Democratic Republic of the",CD,COD,180,Percentage of children under age 5 whose births are registered,2018,40.1,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Denmark,DK,DNK,208,Percentage of children under age 5 whose births are registered,2019,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Denmark,DK,DNK,208,Percentage of children under age 5 whose births are registered,2019,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Denmark,DK,DNK,208,Percentage of children under age 5 whose births are registered,2019,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Djibouti,DJ,DJI,262,Percentage of children under age 5 whose births are registered,2006,90.5,Female,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Djibouti,DJ,DJI,262,Percentage of children under age 5 whose births are registered,2006,92.7,Male,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Djibouti,DJ,DJI,262,Percentage of children under age 5 whose births are registered,2006,91.7,Total,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Dominican Republic,DO,DOM,214,Percentage of children under age 5 whose births are registered,2019,92.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Dominican Republic,DO,DOM,214,Percentage of children under age 5 whose births are registered,2019,91.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Dominican Republic,DO,DOM,214,Percentage of children under age 5 whose births are registered,2019,92.2,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ecuador,EC,ECU,218,Percentage of children under age 5 whose births are registered,2022,77.5,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ecuador,EC,ECU,218,Percentage of children under age 5 whose births are registered,2022,77.2,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ecuador,EC,ECU,218,Percentage of children under age 5 whose births are registered,2022,77.3,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Percentage of children under age 5 whose births are registered,2021,99.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Percentage of children under age 5 whose births are registered,2021,99.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,EG,EGY,818,Percentage of children under age 5 whose births are registered,2021,99.1,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,SV,SLV,222,Percentage of children under age 5 whose births are registered,2021,99,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,SV,SLV,222,Percentage of children under age 5 whose births are registered,2021,99,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,SV,SLV,222,Percentage of children under age 5 whose births are registered,2021,99,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Equatorial Guinea,GQ,GNQ,226,Percentage of children under age 5 whose births are registered,2011,53.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Equatorial Guinea,GQ,GNQ,226,Percentage of children under age 5 whose births are registered,2011,53.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Equatorial Guinea,GQ,GNQ,226,Percentage of children under age 5 whose births are registered,2011,53.5,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Estonia,EE,EST,233,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Estonia,EE,EST,233,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Estonia,EE,EST,233,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Swaziland,SZ,SWZ,748,Percentage of children under age 5 whose births are registered,2022,64.2,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Swaziland,SZ,SWZ,748,Percentage of children under age 5 whose births are registered,2022,67.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Swaziland,SZ,SWZ,748,Percentage of children under age 5 whose births are registered,2022,65.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Percentage of children under age 5 whose births are registered,2016,2.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Percentage of children under age 5 whose births are registered,2016,2.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,ET,ETH,231,Percentage of children under age 5 whose births are registered,2016,2.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Fiji,FJ,FJI,242,Percentage of children under age 5 whose births are registered,2021,86.3,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Fiji,FJ,FJI,242,Percentage of children under age 5 whose births are registered,2021,86.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Fiji,FJ,FJI,242,Percentage of children under age 5 whose births are registered,2021,86.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Finland,FI,FIN,246,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Finland,FI,FIN,246,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Finland,FI,FIN,246,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+France,FR,FRA,250,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+France,FR,FRA,250,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+France,FR,FRA,250,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Gabon,GA,GAB,266,Percentage of children under age 5 whose births are registered,2021,95.4,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Gabon,GA,GAB,266,Percentage of children under age 5 whose births are registered,2021,95.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Gabon,GA,GAB,266,Percentage of children under age 5 whose births are registered,2021,95.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Percentage of children under age 5 whose births are registered,2020,57.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Percentage of children under age 5 whose births are registered,2020,60.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,GM,GMB,270,Percentage of children under age 5 whose births are registered,2020,59,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Georgia,GE,GEO,268,Percentage of children under age 5 whose births are registered,2017,98.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Georgia,GE,GEO,268,Percentage of children under age 5 whose births are registered,2017,98.5,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Georgia,GE,GEO,268,Percentage of children under age 5 whose births are registered,2017,98.5,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Germany,DE,DEU,276,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Germany,DE,DEU,276,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Germany,DE,DEU,276,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Percentage of children under age 5 whose births are registered,2022,74.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Percentage of children under age 5 whose births are registered,2022,74.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,GH,GHA,288,Percentage of children under age 5 whose births are registered,2022,74.5,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Greece,GR,GRC,300,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Greece,GR,GRC,300,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Greece,GR,GRC,300,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Guatemala,GT,GTM,320,Percentage of children under age 5 whose births are registered,2015,96.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Percentage of children under age 5 whose births are registered,2018,61.5,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Percentage of children under age 5 whose births are registered,2018,62.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,GN,GIN,324,Percentage of children under age 5 whose births are registered,2018,62,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,GW,GNB,624,Percentage of children under age 5 whose births are registered,2019,44.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,GW,GNB,624,Percentage of children under age 5 whose births are registered,2019,47.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,GW,GNB,624,Percentage of children under age 5 whose births are registered,2019,46,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Guyana,GY,GUY,328,Percentage of children under age 5 whose births are registered,2020,97.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Guyana,GY,GUY,328,Percentage of children under age 5 whose births are registered,2020,98.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Guyana,GY,GUY,328,Percentage of children under age 5 whose births are registered,2020,98.1,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,HT,HTI,332,Percentage of children under age 5 whose births are registered,2017,85.4,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,HT,HTI,332,Percentage of children under age 5 whose births are registered,2017,84.2,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,HT,HTI,332,Percentage of children under age 5 whose births are registered,2017,84.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,HN,HND,340,Percentage of children under age 5 whose births are registered,2019,96.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,HN,HND,340,Percentage of children under age 5 whose births are registered,2019,97.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,HN,HND,340,Percentage of children under age 5 whose births are registered,2019,97,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Hungary,HU,HUN,348,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Hungary,HU,HUN,348,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Hungary,HU,HUN,348,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Iceland,IS,ISL,352,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Iceland,IS,ISL,352,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Iceland,IS,ISL,352,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+India,IN,IND,356,Percentage of children under age 5 whose births are registered,2021,89.4,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Percentage of children under age 5 whose births are registered,2021,88.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+India,IN,IND,356,Percentage of children under age 5 whose births are registered,2021,89.1,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,ID,IDN,360,Percentage of children under age 5 whose births are registered,2023,83.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Iran, Islamic Republic of",IR,IRN,364,Percentage of children under age 5 whose births are registered,2010,98.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Iran, Islamic Republic of",IR,IRN,364,Percentage of children under age 5 whose births are registered,2010,98.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Iran, Islamic Republic of",IR,IRN,364,Percentage of children under age 5 whose births are registered,2010,98.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,IQ,IRQ,368,Percentage of children under age 5 whose births are registered,2018,98.8,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,IQ,IRQ,368,Percentage of children under age 5 whose births are registered,2018,98.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,IQ,IRQ,368,Percentage of children under age 5 whose births are registered,2018,98.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ireland,IE,IRL,372,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Ireland,IE,IRL,372,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Ireland,IE,IRL,372,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Israel,IL,ISR,376,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Israel,IL,ISR,376,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Israel,IL,ISR,376,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Italy,IT,ITA,380,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Italy,IT,ITA,380,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Italy,IT,ITA,380,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Jamaica,JM,JAM,388,Percentage of children under age 5 whose births are registered,2018,99.8,Total,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Japan,JP,JPN,392,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Japan,JP,JPN,392,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Japan,JP,JPN,392,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Jordan,JO,JOR,400,Percentage of children under age 5 whose births are registered,2018,97.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Jordan,JO,JOR,400,Percentage of children under age 5 whose births are registered,2018,98.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Jordan,JO,JOR,400,Percentage of children under age 5 whose births are registered,2018,98,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kazakhstan,KZ,KAZ,398,Percentage of children under age 5 whose births are registered,2015,99.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kazakhstan,KZ,KAZ,398,Percentage of children under age 5 whose births are registered,2015,99.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kazakhstan,KZ,KAZ,398,Percentage of children under age 5 whose births are registered,2015,99.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,KE,KEN,404,Percentage of children under age 5 whose births are registered,2022,75.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,KE,KEN,404,Percentage of children under age 5 whose births are registered,2022,76.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,KE,KEN,404,Percentage of children under age 5 whose births are registered,2022,76,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kiribati,KI,KIR,296,Percentage of children under age 5 whose births are registered,2019,90.3,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kiribati,KI,KIR,296,Percentage of children under age 5 whose births are registered,2019,92.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kiribati,KI,KIR,296,Percentage of children under age 5 whose births are registered,2019,91.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,KG,KGZ,417,Percentage of children under age 5 whose births are registered,2018,98.4,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,KG,KGZ,417,Percentage of children under age 5 whose births are registered,2018,99.5,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,KG,KGZ,417,Percentage of children under age 5 whose births are registered,2018,98.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Lao People's Democratic Republic,LA,LAO,418,Percentage of children under age 5 whose births are registered,2017,73.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Lao People's Democratic Republic,LA,LAO,418,Percentage of children under age 5 whose births are registered,2017,72.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Lao People's Democratic Republic,LA,LAO,418,Percentage of children under age 5 whose births are registered,2017,73,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Latvia,LV,LVA,428,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Latvia,LV,LVA,428,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Latvia,LV,LVA,428,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Lebanon,LB,LBN,422,Percentage of children under age 5 whose births are registered,2016,98,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Lebanon,LB,LBN,422,Percentage of children under age 5 whose births are registered,2016,99.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Lebanon,LB,LBN,422,Percentage of children under age 5 whose births are registered,2016,98.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,LS,LSO,426,Percentage of children under age 5 whose births are registered,2018,43.5,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,LS,LSO,426,Percentage of children under age 5 whose births are registered,2018,45.5,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,LS,LSO,426,Percentage of children under age 5 whose births are registered,2018,44.5,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Percentage of children under age 5 whose births are registered,2020,65.4,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Percentage of children under age 5 whose births are registered,2020,67.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,LR,LBR,430,Percentage of children under age 5 whose births are registered,2020,66.3,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Liechtenstein,LI,LIE,438,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Liechtenstein,LI,LIE,438,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Liechtenstein,LI,LIE,438,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Lithuania,LT,LTU,440,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Lithuania,LT,LTU,440,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Lithuania,LT,LTU,440,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Luxembourg,LU,LUX,442,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Luxembourg,LU,LUX,442,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Luxembourg,LU,LUX,442,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Madagascar,MG,MDG,450,Percentage of children under age 5 whose births are registered,2021,74.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,MG,MDG,450,Percentage of children under age 5 whose births are registered,2021,73,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,MG,MDG,450,Percentage of children under age 5 whose births are registered,2021,73.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Percentage of children under age 5 whose births are registered,2020,65.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Percentage of children under age 5 whose births are registered,2020,68.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,MW,MWI,454,Percentage of children under age 5 whose births are registered,2020,67,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Malaysia,MY,MYS,458,Percentage of children under age 5 whose births are registered,2022,97.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Maldives,MV,MDV,462,Percentage of children under age 5 whose births are registered,2017,99.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Maldives,MV,MDV,462,Percentage of children under age 5 whose births are registered,2017,98.5,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Maldives,MV,MDV,462,Percentage of children under age 5 whose births are registered,2017,98.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Percentage of children under age 5 whose births are registered,2018,85.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Percentage of children under age 5 whose births are registered,2018,87.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,ML,MLI,466,Percentage of children under age 5 whose births are registered,2018,86.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Malta,MT,MLT,470,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Malta,MT,MLT,470,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Malta,MT,MLT,470,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Marshall Islands,MH,MHL,584,Percentage of children under age 5 whose births are registered,2017,82.3,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Marshall Islands,MH,MHL,584,Percentage of children under age 5 whose births are registered,2017,85.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Marshall Islands,MH,MHL,584,Percentage of children under age 5 whose births are registered,2017,83.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,MR,MRT,478,Percentage of children under age 5 whose births are registered,2021,44.2,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,MR,MRT,478,Percentage of children under age 5 whose births are registered,2021,45.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,MR,MRT,478,Percentage of children under age 5 whose births are registered,2021,44.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mexico,MX,MEX,484,Percentage of children under age 5 whose births are registered,2020,97,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mexico,MX,MEX,484,Percentage of children under age 5 whose births are registered,2020,97,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mexico,MX,MEX,484,Percentage of children under age 5 whose births are registered,2020,97,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Monaco,MC,MCO,492,Percentage of children under age 5 whose births are registered,2020,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Monaco,MC,MCO,492,Percentage of children under age 5 whose births are registered,2020,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Monaco,MC,MCO,492,Percentage of children under age 5 whose births are registered,2020,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Mongolia,MN,MNG,496,Percentage of children under age 5 whose births are registered,2018,99.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Percentage of children under age 5 whose births are registered,2018,99.6,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,MN,MNG,496,Percentage of children under age 5 whose births are registered,2018,99.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Montenegro,ME,MNE,499,Percentage of children under age 5 whose births are registered,2013,99.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Montenegro,ME,MNE,499,Percentage of children under age 5 whose births are registered,2013,99.6,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Montenegro,ME,MNE,499,Percentage of children under age 5 whose births are registered,2013,99.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Montserrat,MS,MSR,500,Percentage of children under age 5 whose births are registered,2017,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Montserrat,MS,MSR,500,Percentage of children under age 5 whose births are registered,2017,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Montserrat,MS,MSR,500,Percentage of children under age 5 whose births are registered,2017,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Morocco,MA,MAR,504,Percentage of children under age 5 whose births are registered,2018,97,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Morocco,MA,MAR,504,Percentage of children under age 5 whose births are registered,2018,96.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Morocco,MA,MAR,504,Percentage of children under age 5 whose births are registered,2018,96.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mozambique,MZ,MOZ,508,Percentage of children under age 5 whose births are registered,2023,30.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mozambique,MZ,MOZ,508,Percentage of children under age 5 whose births are registered,2023,32,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Mozambique,MZ,MOZ,508,Percentage of children under age 5 whose births are registered,2023,31.3,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Myanmar,MM,MMR,104,Percentage of children under age 5 whose births are registered,2016,80.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Myanmar,MM,MMR,104,Percentage of children under age 5 whose births are registered,2016,81.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Myanmar,MM,MMR,104,Percentage of children under age 5 whose births are registered,2016,81.3,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Namibia,,NAM,516,Percentage of children under age 5 whose births are registered,2016,78.1,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Nauru,NR,NRU,520,Percentage of children under age 5 whose births are registered,2013,95.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Percentage of children under age 5 whose births are registered,2022,71.8,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Percentage of children under age 5 whose births are registered,2022,74.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,NP,NPL,524,Percentage of children under age 5 whose births are registered,2022,73.2,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Netherlands,NL,NLD,528,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Netherlands,NL,NLD,528,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Netherlands,NL,NLD,528,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+New Zealand,NZ,NZL,554,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+New Zealand,NZ,NZL,554,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+New Zealand,NZ,NZL,554,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Nicaragua,NI,NIC,558,Percentage of children under age 5 whose births are registered,2012,84.7,Total,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Niger,NE,NER,562,Percentage of children under age 5 whose births are registered,2021,64.8,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,NE,NER,562,Percentage of children under age 5 whose births are registered,2021,66.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,NE,NER,562,Percentage of children under age 5 whose births are registered,2021,65.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Percentage of children under age 5 whose births are registered,2021,56.8,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Percentage of children under age 5 whose births are registered,2021,57.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,NG,NGA,566,Percentage of children under age 5 whose births are registered,2021,57.3,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of children under age 5 whose births are registered,2019,100,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of children under age 5 whose births are registered,2019,99.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of children under age 5 whose births are registered,2019,99.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Norway,NO,NOR,578,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Norway,NO,NOR,578,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Norway,NO,NOR,578,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Oman,OM,OMN,512,Percentage of children under age 5 whose births are registered,2018,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Oman,OM,OMN,512,Percentage of children under age 5 whose births are registered,2018,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Oman,OM,OMN,512,Percentage of children under age 5 whose births are registered,2018,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Pakistan,PK,PAK,586,Percentage of children under age 5 whose births are registered,2018,41.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,PK,PAK,586,Percentage of children under age 5 whose births are registered,2018,42.5,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,PK,PAK,586,Percentage of children under age 5 whose births are registered,2018,42.2,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Panama,PA,PAN,591,Percentage of children under age 5 whose births are registered,2019,96.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Panama,PA,PAN,591,Percentage of children under age 5 whose births are registered,2019,96.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Panama,PA,PAN,591,Percentage of children under age 5 whose births are registered,2019,96.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Papua New Guinea,PG,PNG,598,Percentage of children under age 5 whose births are registered,2018,13.6,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Papua New Guinea,PG,PNG,598,Percentage of children under age 5 whose births are registered,2018,13.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Papua New Guinea,PG,PNG,598,Percentage of children under age 5 whose births are registered,2018,13.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Paraguay,PY,PRY,600,Percentage of children under age 5 whose births are registered,2020,71.3,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Paraguay,PY,PRY,600,Percentage of children under age 5 whose births are registered,2020,71.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Paraguay,PY,PRY,600,Percentage of children under age 5 whose births are registered,2020,71.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,PE,PER,604,Percentage of children under age 5 whose births are registered,2020,96.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Percentage of children under age 5 whose births are registered,2022,93.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Percentage of children under age 5 whose births are registered,2022,94.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,PH,PHL,608,Percentage of children under age 5 whose births are registered,2022,94,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Poland,PL,POL,616,Percentage of children under age 5 whose births are registered,2018,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Poland,PL,POL,616,Percentage of children under age 5 whose births are registered,2018,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Poland,PL,POL,616,Percentage of children under age 5 whose births are registered,2018,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Portugal,PT,PRT,620,Percentage of children under age 5 whose births are registered,2020,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Portugal,PT,PRT,620,Percentage of children under age 5 whose births are registered,2020,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Portugal,PT,PRT,620,Percentage of children under age 5 whose births are registered,2020,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Qatar,QA,QAT,634,Percentage of children under age 5 whose births are registered,2020,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Qatar,QA,QAT,634,Percentage of children under age 5 whose births are registered,2020,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Qatar,QA,QAT,634,Percentage of children under age 5 whose births are registered,2020,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+"Moldova, Republic of",MD,MDA,498,Percentage of children under age 5 whose births are registered,2012,99.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Moldova, Republic of",MD,MDA,498,Percentage of children under age 5 whose births are registered,2012,99.2,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Moldova, Republic of",MD,MDA,498,Percentage of children under age 5 whose births are registered,2012,99.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Romania,RO,ROU,642,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Romania,RO,ROU,642,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Romania,RO,ROU,642,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Russian Federation,RU,RUS,643,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Percentage of children under age 5 whose births are registered,2020,85.4,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Percentage of children under age 5 whose births are registered,2020,85.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,RW,RWA,646,Percentage of children under age 5 whose births are registered,2020,85.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Saint Lucia,LC,LCA,662,Percentage of children under age 5 whose births are registered,2012,92.5,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Saint Lucia,LC,LCA,662,Percentage of children under age 5 whose births are registered,2012,91.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Saint Lucia,LC,LCA,662,Percentage of children under age 5 whose births are registered,2012,92,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Samoa,WS,WSM,882,Percentage of children under age 5 whose births are registered,2020,66.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Samoa,WS,WSM,882,Percentage of children under age 5 whose births are registered,2020,67,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Samoa,WS,WSM,882,Percentage of children under age 5 whose births are registered,2020,66.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+San Marino,SM,SMR,674,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+San Marino,SM,SMR,674,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+San Marino,SM,SMR,674,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Sao Tome and Principe,ST,STP,678,Percentage of children under age 5 whose births are registered,2019,98.4,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Sao Tome and Principe,ST,STP,678,Percentage of children under age 5 whose births are registered,2019,98.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Sao Tome and Principe,ST,STP,678,Percentage of children under age 5 whose births are registered,2019,98.6,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Saudi Arabia,SA,SAU,682,Percentage of children under age 5 whose births are registered,2018,99,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Saudi Arabia,SA,SAU,682,Percentage of children under age 5 whose births are registered,2018,99.5,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Saudi Arabia,SA,SAU,682,Percentage of children under age 5 whose births are registered,2018,99.2,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Percentage of children under age 5 whose births are registered,2019,77.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Percentage of children under age 5 whose births are registered,2019,80.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,SN,SEN,686,Percentage of children under age 5 whose births are registered,2019,78.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Serbia,RS,SRB,688,Percentage of children under age 5 whose births are registered,2019,100,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Serbia,RS,SRB,688,Percentage of children under age 5 whose births are registered,2019,99.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Serbia,RS,SRB,688,Percentage of children under age 5 whose births are registered,2019,99.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Percentage of children under age 5 whose births are registered,2019,90.5,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Percentage of children under age 5 whose births are registered,2019,90.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,SL,SLE,694,Percentage of children under age 5 whose births are registered,2019,90.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Singapore,SG,SGP,702,Percentage of children under age 5 whose births are registered,2022,99.9,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Slovakia,SK,SVK,703,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Slovakia,SK,SVK,703,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Slovakia,SK,SVK,703,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Slovenia,SI,SVN,705,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Slovenia,SI,SVN,705,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Slovenia,SI,SVN,705,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Solomon Islands,SB,SLB,90,Percentage of children under age 5 whose births are registered,2015,89,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Solomon Islands,SB,SLB,90,Percentage of children under age 5 whose births are registered,2015,87.2,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Solomon Islands,SB,SLB,90,Percentage of children under age 5 whose births are registered,2015,88,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Somalia,SO,SOM,706,Percentage of children under age 5 whose births are registered,2006,2.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Somalia,SO,SOM,706,Percentage of children under age 5 whose births are registered,2006,3.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Somalia,SO,SOM,706,Percentage of children under age 5 whose births are registered,2006,3,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+South Africa,ZA,ZAF,710,Percentage of children under age 5 whose births are registered,2017,88.6,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+South Sudan,SS,SSD,728,Percentage of children under age 5 whose births are registered,2010,36,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+South Sudan,SS,SSD,728,Percentage of children under age 5 whose births are registered,2010,34.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+South Sudan,SS,SSD,728,Percentage of children under age 5 whose births are registered,2010,35.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Spain,ES,ESP,724,Percentage of children under age 5 whose births are registered,2020,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Spain,ES,ESP,724,Percentage of children under age 5 whose births are registered,2020,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Spain,ES,ESP,724,Percentage of children under age 5 whose births are registered,2020,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Sri Lanka,LK,LKA,144,Percentage of children under age 5 whose births are registered,2019,99,Female,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Sri Lanka,LK,LKA,144,Percentage of children under age 5 whose births are registered,2019,98.9,Male,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Sri Lanka,LK,LKA,144,Percentage of children under age 5 whose births are registered,2019,98.9,Total,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Percentage of children under age 5 whose births are registered,2020,98.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Percentage of children under age 5 whose births are registered,2020,99.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Percentage of children under age 5 whose births are registered,2020,99.2,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,SD,SDN,736,Percentage of children under age 5 whose births are registered,2014,65.8,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,SD,SDN,736,Percentage of children under age 5 whose births are registered,2014,68.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,SD,SDN,736,Percentage of children under age 5 whose births are registered,2014,67.3,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Suriname,SR,SUR,740,Percentage of children under age 5 whose births are registered,2018,98.5,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Suriname,SR,SUR,740,Percentage of children under age 5 whose births are registered,2018,98.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Suriname,SR,SUR,740,Percentage of children under age 5 whose births are registered,2018,98.3,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Sweden,SE,SWE,752,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Sweden,SE,SWE,752,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Sweden,SE,SWE,752,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Switzerland,CH,CHE,756,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+Switzerland,CH,CHE,756,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+Switzerland,CH,CHE,756,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+Syrian Arab Republic,SY,SYR,760,Percentage of children under age 5 whose births are registered,2006,95.8,Female,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Syrian Arab Republic,SY,SYR,760,Percentage of children under age 5 whose births are registered,2006,96.3,Male,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Syrian Arab Republic,SY,SYR,760,Percentage of children under age 5 whose births are registered,2006,96,Total,,%,Reanalysed,Free,End of fieldwork,Under 5 years old
+Tajikistan,TJ,TJK,762,Percentage of children under age 5 whose births are registered,2017,95.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tajikistan,TJ,TJK,762,Percentage of children under age 5 whose births are registered,2017,95.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tajikistan,TJ,TJK,762,Percentage of children under age 5 whose births are registered,2017,95.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Thailand,TH,THA,764,Percentage of children under age 5 whose births are registered,2022,99.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Thailand,TH,THA,764,Percentage of children under age 5 whose births are registered,2022,99.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Thailand,TH,THA,764,Percentage of children under age 5 whose births are registered,2022,99.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,TL,TLS,626,Percentage of children under age 5 whose births are registered,2016,61,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,TL,TLS,626,Percentage of children under age 5 whose births are registered,2016,59.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,TL,TLS,626,Percentage of children under age 5 whose births are registered,2016,60.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Percentage of children under age 5 whose births are registered,2017,81.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Percentage of children under age 5 whose births are registered,2017,83.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,TG,TGO,768,Percentage of children under age 5 whose births are registered,2017,82.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tonga,TO,TON,776,Percentage of children under age 5 whose births are registered,2019,98.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tonga,TO,TON,776,Percentage of children under age 5 whose births are registered,2019,97.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tonga,TO,TON,776,Percentage of children under age 5 whose births are registered,2019,97.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Trinidad and Tobago,TT,TTO,780,Percentage of children under age 5 whose births are registered,2022,96.8,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Trinidad and Tobago,TT,TTO,780,Percentage of children under age 5 whose births are registered,2022,95.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Trinidad and Tobago,TT,TTO,780,Percentage of children under age 5 whose births are registered,2022,96.1,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tunisia,TN,TUN,788,Percentage of children under age 5 whose births are registered,2018,99.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tunisia,TN,TUN,788,Percentage of children under age 5 whose births are registered,2018,99.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tunisia,TN,TUN,788,Percentage of children under age 5 whose births are registered,2018,99.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Turkmenistan,TM,TKM,795,Percentage of children under age 5 whose births are registered,2019,99.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Turkmenistan,TM,TKM,795,Percentage of children under age 5 whose births are registered,2019,99.8,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Turkmenistan,TM,TKM,795,Percentage of children under age 5 whose births are registered,2019,99.9,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Turks and Caicos Islands,TC,TCA,796,Percentage of children under age 5 whose births are registered,2020,99.1,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Turks and Caicos Islands,TC,TCA,796,Percentage of children under age 5 whose births are registered,2020,99.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Turks and Caicos Islands,TC,TCA,796,Percentage of children under age 5 whose births are registered,2020,99.2,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tuvalu,TV,TUV,798,Percentage of children under age 5 whose births are registered,2020,89.3,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tuvalu,TV,TUV,798,Percentage of children under age 5 whose births are registered,2020,85.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Tuvalu,TV,TUV,798,Percentage of children under age 5 whose births are registered,2020,87.2,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Turkey,TR,TUR,792,Percentage of children under age 5 whose births are registered,2018,98.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Turkey,TR,TUR,792,Percentage of children under age 5 whose births are registered,2018,98.2,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Turkey,TR,TUR,792,Percentage of children under age 5 whose births are registered,2018,98.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Percentage of children under age 5 whose births are registered,2016,32.2,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Percentage of children under age 5 whose births are registered,2016,32.2,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,UG,UGA,800,Percentage of children under age 5 whose births are registered,2016,32.2,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ukraine,UA,UKR,804,Percentage of children under age 5 whose births are registered,2012,99.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ukraine,UA,UKR,804,Percentage of children under age 5 whose births are registered,2012,99.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Ukraine,UA,UKR,804,Percentage of children under age 5 whose births are registered,2012,99.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+United Arab Emirates,AE,ARE,784,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Reported,Free,End of fieldwork,Under 1 month old
+United Arab Emirates,AE,ARE,784,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Reported,Free,End of fieldwork,Under 1 month old
+United Arab Emirates,AE,ARE,784,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Reported,Free,End of fieldwork,Under 1 month old
+United Kingdom,GB,GBR,826,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+United Kingdom,GB,GBR,826,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+United Kingdom,GB,GBR,826,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of children under age 5 whose births are registered,2022,67.3,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of children under age 5 whose births are registered,2022,68.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of children under age 5 whose births are registered,2022,67.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+United States,US,USA,840,Percentage of children under age 5 whose births are registered,2021,100,Female,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+United States,US,USA,840,Percentage of children under age 5 whose births are registered,2021,100,Male,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+United States,US,USA,840,Percentage of children under age 5 whose births are registered,2021,100,Total,,%,Estimated value,Free,End of fieldwork,Under 1 month old
+Uruguay,UY,URY,858,Percentage of children under age 5 whose births are registered,2013,99.7,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Uruguay,UY,URY,858,Percentage of children under age 5 whose births are registered,2013,99.9,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Uruguay,UY,URY,858,Percentage of children under age 5 whose births are registered,2013,99.8,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Uzbekistan,UZ,UZB,860,Percentage of children under age 5 whose births are registered,2022,100,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Uzbekistan,UZ,UZB,860,Percentage of children under age 5 whose births are registered,2022,100,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Uzbekistan,UZ,UZB,860,Percentage of children under age 5 whose births are registered,2022,100,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Vanuatu,VU,VUT,548,Percentage of children under age 5 whose births are registered,2013,42.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Vanuatu,VU,VUT,548,Percentage of children under age 5 whose births are registered,2013,44,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Vanuatu,VU,VUT,548,Percentage of children under age 5 whose births are registered,2013,43.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Percentage of children under age 5 whose births are registered,2017,81.3,Total,,%,Reanalysed,Free,End of fieldwork,Under 1 month old
+Vietnam,VN,VNM,704,Percentage of children under age 5 whose births are registered,2021,98.5,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Vietnam,VN,VNM,704,Percentage of children under age 5 whose births are registered,2021,97.7,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Vietnam,VN,VNM,704,Percentage of children under age 5 whose births are registered,2021,98.1,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Yemen,YE,YEM,887,Percentage of children under age 5 whose births are registered,2023,28.4,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Yemen,YE,YEM,887,Percentage of children under age 5 whose births are registered,2023,30.3,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Yemen,YE,YEM,887,Percentage of children under age 5 whose births are registered,2023,29.4,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Zambia,ZM,ZMB,894,Percentage of children under age 5 whose births are registered,2018,14,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Zambia,ZM,ZMB,894,Percentage of children under age 5 whose births are registered,2018,14.1,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Zambia,ZM,ZMB,894,Percentage of children under age 5 whose births are registered,2018,14,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Percentage of children under age 5 whose births are registered,2019,48.9,Female,,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Percentage of children under age 5 whose births are registered,2019,48.4,Male,,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,ZW,ZWE,716,Percentage of children under age 5 whose births are registered,2019,48.7,Total,,%,Reported,Free,End of fieldwork,Under 5 years old
